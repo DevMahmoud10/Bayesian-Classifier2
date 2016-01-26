@@ -1,0 +1,12 @@
+c:\users\mahmoud\documents\visual studio 2013\Projects\Pattern_Task3\Pattern_Task3\bin\Debug\Pattern_Task3.exe.config
+c:\users\mahmoud\documents\visual studio 2013\Projects\Pattern_Task3\Pattern_Task3\obj\Debug\Pattern_Task3.csprojResolveAssemblyReference.cache
+c:\users\mahmoud\documents\visual studio 2013\Projects\Pattern_Task3\Pattern_Task3\obj\Debug\Pattern_Task3.Form1.resources
+c:\users\mahmoud\documents\visual studio 2013\Projects\Pattern_Task3\Pattern_Task3\obj\Debug\Pattern_Task3.Properties.Resources.resources
+c:\users\mahmoud\documents\visual studio 2013\Projects\Pattern_Task3\Pattern_Task3\obj\Debug\Pattern_Task3.csproj.GenerateResource.Cache
+c:\users\mahmoud\documents\visual studio 2013\Projects\Pattern_Task3\Pattern_Task3\bin\Debug\Pattern_Task3.exe
+c:\users\mahmoud\documents\visual studio 2013\Projects\Pattern_Task3\Pattern_Task3\bin\Debug\Pattern_Task3.pdb
+c:\users\mahmoud\documents\visual studio 2013\Projects\Pattern_Task3\Pattern_Task3\obj\Debug\Pattern_Task3.exe
+c:\users\mahmoud\documents\visual studio 2013\Projects\Pattern_Task3\Pattern_Task3\obj\Debug\Pattern_Task3.pdb
+C:\Users\Mahmoud\Dropbox\Fourth Year - First Term\Pattern Recognitions-Dr.Marym El-Berry\Tasks\Task 3\Pattern_Task3\Pattern_Task3\bin\Debug\Pattern_Task3.exe.config
+C:\Users\Mahmoud\Dropbox\Fourth Year - First Term\Pattern Recognitions-Dr.Marym El-Berry\Tasks\Task 3\Pattern_Task3\Pattern_Task3\obj\Debug\Pattern_Task3.exe
+C:\Users\Mahmoud\Dropbox\Fourth Year - First Term\Pattern Recognitions-Dr.Marym El-Berry\Tasks\Task 3\Pattern_Task3\Pattern_Task3\obj\Debug\Pattern_Task3.pdb
